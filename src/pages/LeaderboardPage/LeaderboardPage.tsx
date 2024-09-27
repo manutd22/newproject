@@ -9,7 +9,7 @@ interface LeaderboardUser {
   balance: number;
 }
 
-const BACKEND_URL = 'https://9f28-78-84-0-200.ngrok-free.app';
+const BACKEND_URL = 'https://309d-78-84-0-200.ngrok-free.app';
 
 export const LeaderboardPage: React.FC = () => {
   const [users, setUsers] = useState<LeaderboardUser[]>([]);
