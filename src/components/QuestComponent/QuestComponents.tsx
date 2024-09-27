@@ -16,7 +16,7 @@ interface Quest {
 }
 
 const utils = initUtils();
-const BACKEND_URL = 'https://5e2f52406a115e97c8eec7d7429f5187.serveo.net';
+const BACKEND_URL = 'https://9f28-78-84-0-200.ngrok-free.app';
 const SUBSCRIPTION_CHANNEL = 'sexinandout';
 const BOT_USERNAME = 'prosexin_bot';
 const APP_NAME = 'sexin';
